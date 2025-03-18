@@ -11,5 +11,3 @@ function vermelho(){
     vermelho.classList.add('vermelho');
     document.body.appendChild(vermelho);
 }
-
-//Atv2
